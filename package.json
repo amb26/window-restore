@@ -1,0 +1,25 @@
+{
+    "name": "window-restore",
+    "description": "Tools for restoring window layouts on Microsoft's \"Windows\"",
+    "version": "0.0.1",
+    "author": "Antranig Basman",
+    "dependencies": {
+        "infusion": "2.0.0-dev.20161124T191742Z.17a345b",
+        "edge": "6.5.1"
+    },
+    "license": "BSD-3-Clause",
+    "repository": "git://github.com/fluid-project/fluid-authoring.git",
+    "scripts": {
+    },
+    "engines": {
+        "node": ">=6.0",
+        "npm": ">=3.0.0"
+    },
+    "devDependencies": {
+        "eslint": "3.10.2",
+        "eslint-config-fluid": "1.0.0",
+        "grunt": "1.0.1",
+        "fluid-grunt-eslint": "18.1.2",
+        "grunt-jsonlint": "1.1.0"
+    }
+}
